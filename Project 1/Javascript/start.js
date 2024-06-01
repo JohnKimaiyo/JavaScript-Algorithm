@@ -1,5 +1,0 @@
-greetting (){
-alert("Hello")
-}
-
-greetting()
