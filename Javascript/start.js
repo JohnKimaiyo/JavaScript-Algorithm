@@ -1,0 +1,5 @@
+greetting (){
+alert("Hello")
+}
+
+greetting()
